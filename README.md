@@ -21,7 +21,7 @@ Carry=X'Y
 ## Full Subtractor
 A full subtractor is a combinational circuit that performs subtraction involving three bits, namely minuend, subtrahend, and borrow-in . It accepts three inputs: minuend, subtrahend and a borrow bit and it produces two outputs: difference and borrow. 
 
-![Screenshot 2023-11-26 144204](https://github.com/Mohanraj2006/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/152195759/a363f4e2-cdb9-4aaf-82dd-49bc386c08ca)
+![Screenshot 2023-11-26 164129](https://github.com/Mohanraj2006/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/152195759/14356735-14cd-4587-840c-8a42e30f231e)
 
 Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 
@@ -54,7 +54,7 @@ RegisterNumber:
 
 ## Timing diagram 
 ![Screenshot 2023-11-26 143851](https://github.com/Mohanraj2006/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/152195759/0cfe7a77-1ae7-4411-bf76-2a1180890e80)
-![Uploading Screenshot 2023-11-26 150532.png…]()
+![Screenshot 2023-11-26 150532](https://github.com/Mohanraj2006/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/152195759/c9e94982-f214-4683-877c-880df06f2de7)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
